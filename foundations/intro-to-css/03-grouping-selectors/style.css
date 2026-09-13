@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.f1, .f2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.f1{
+    background-color: black;
+    color: white;
+}
+.f2{
+    background-color: yellow;
+}
